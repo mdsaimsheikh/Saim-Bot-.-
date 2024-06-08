@@ -9,15 +9,15 @@
   "BOTNAME": "SAIM-BOT",
   "PREFIX": ".",
   "OPERATOR": [
-    "845455655575",
+    "61556537307728",
     ""
   ],
   "ADMINBOT": [
-    "845455655575",
-    "61552209590855"
+    "61556537307728",
+    ""
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [845455655575],
+  "APPROVED": [61556537307728],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
